@@ -1,16 +1,16 @@
 /* 
-  primary: #e65c00
+  primary: #001d4d
   secondary: #ffa366
-  light: #fff0e6
+  light: #cce0ff
 */
 
 body{
-    background: #fff0e6;
+    background: #cce0ff;
 }
 .app-title{
     text-align: center;
     font-size: 50px;
-    color: #e65c00;
+    color: #001d4d ;
 }
 
 .app-body{
@@ -46,13 +46,13 @@ body{
     padding: 5px;
     margin: 20px;
     border-radius: 5px;
-    border: solid 1px #e65c00 ; 
+    border: solid 1px #001d4d  ; 
 }
 .btn-add-contact{
     display: block;
     font-size: 25px;
     padding: 10px 30px ;
-    background-color: #e65c00;
+    background-color: #001d4d;
     border-radius: 30px;
     border: none;
     margin: 40px auto;
